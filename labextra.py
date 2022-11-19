@@ -17,7 +17,7 @@ def movie_list(): # Create function name movie_list
                 "5.Maleficent"] # member of list index 3
     return hallywood
  
-greeting() # call function 
+greeting() # call function
 movie = movie_list()  # call function stored in a variable name movie 
 name_mov=input("Please enter your movie: ") # recive input stored in a variable name_mov
 if name_mov=="1": 
